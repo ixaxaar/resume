@@ -1,0 +1,236 @@
+\documentclass[10pt]{article} %Sets the default text size to 11pt and class to article.
+%------------------------Dimensions--------------------------------------------
+\topmargin=0.0in %length of margin at the top of the page (1 inch added by default)
+\oddsidemargin=0.0in %length of margin on sides for odd pages
+\evensidemargin=0in %length of margin on sides for even pages
+\textwidth=6.5in %How wide you want your text to be
+\marginparwidth=0.5in
+\headheight=0pt %1in margins at top and bottom (1 inch is added to this value by default)
+\headsep=0pt %Increase to increase white space in between headers and the top of the page
+\textheight=9.0in %How tall the text body is allowed to be on each page
+\fontfamily{courier}
+\pagenumbering{gobble}
+
+\usepackage[hidelinks]{hyperref}
+\usepackage{bold-extra}
+\usepackage[usenames, dvipsnames]{color}
+\usepackage{lipsum}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{enumitem}
+
+\newcommand\textbox[1]{%
+  \parbox{.333\textwidth}{#1}%
+}
+
+\newcommand{\tabitem}{~~\llap{\textbullet}~~}
+
+\begin{document}
+
+% My name as the title of the resume
+\begin{center}
+\Huge\textbf{Russi Chatterjee}
+\end{center}
+
+\noindent\textbox{$\bullet$\href{https://github.com/ixaxaar}{\textit{\textcolor{RoyalPurple}{Github: @ixaxaar}}}\hfill}\textbox{\hfil$\bullet$\href{http://in.linkedin.com/in/ixaxaar/}{\textit{\textcolor{RoyalPurple}{LinkedIn: @ixaxaar}}}\hfil}\textbox{\hfill$\bullet$\href{mailto:russichatterjee@gmail.com}{\textit{\textcolor{RoyalPurple}{russichatterjee@gmail.com}}}}
+\newline
+\newline
+
+\noindent{\large{SYNOPSIS}}
+
+\noindent\textcolor{Apricot}{\rule{17cm}{1.8pt}}
+
+\noindent{Engineer with around three and a half years of experience in a wide spectrum of software, from operating systems and embedded software to large scale distributed web backend and analytics systems.}
+\newline
+
+\noindent\large{EXPERTISE}
+
+\noindent\textcolor{Apricot}{\rule{17cm}{1.8pt}}
+
+\normalsize
+\begin{tabularx}{\textwidth}{>{\setlength\hsize{0.7\hsize}}X >{\setlength\hsize{1.3\hsize}}X}
+	Programming languages & Python, Scala, R, C, Javascipt. Also worked with Lua, C++, Java \\
+	\textcolor{Apricot}{\rule{16cm}{0.2pt}}\\
+
+	Reactive frameworks & Node.js, pyev and gevent event-loops, Akka the actor framework for concurrency, Celery the distributed realtime task queue \\
+	\textcolor{Apricot}{\rule{16cm}{0.2pt}}\\
+
+	Web backend frameworks & Express, Django \\
+	\textcolor{Apricot}{\rule{16cm}{0.2pt}}\\
+
+	Messaging systems and \newline data buses & RabbitMQ, ZeroMQ \\
+	\textcolor{Apricot}{\rule{16cm}{0.2pt}}\\
+
+	Data stores & PostgreSQL, Cassandra (multi-datacenter), Redis (high availability cluster), CouchDB, MongoDB \\
+	\textcolor{Apricot}{\rule{16cm}{0.2pt}}\\
+
+	Distributed computing \newline and networks & Apache Storm, Apache Spark, Zigbee/IEEE 802.15.4 distributed network protocol \\
+	\textcolor{Apricot}{\rule{16cm}{0.2pt}}\\
+
+	Analytics & Time series analysis, data mining, online and batch statistical methods \\
+	\textcolor{Apricot}{\rule{16cm}{0.2pt}}\\
+
+	Operating systems kernels & Linux, uITron \\
+	\textcolor{Apricot}{\rule{16cm}{0.2pt}}\\
+
+	Frontend libraries & HTML, CSS, Jquery, D3, NVD3 graphing library, Backbone, Bootstrap, Jade templating, underscore/lodash etc \\
+	\textcolor{Apricot}{\rule{16cm}{0.2pt}}\\
+
+	Programming patterns & Reactive and event-loop based patterns, Service-oriented architectures, scaling via hashed key based sharding, partial indexing, mapreduce and functional programming \\
+	\textcolor{Apricot}{\rule{16cm}{0.2pt}}\\
+
+	Software processes & SCRUM, Agile \\
+
+\end{tabularx}
+\newline
+\newline
+
+\noindent\large{EDUCATION}
+
+\noindent\textcolor{Apricot}{\rule{17cm}{1.8pt}}
+
+\normalsize
+\noindent\textbf{B.Tech in Computer Science, NIT Rourkela} \hfill \textbf{2006-2010}
+\begin{itemize}
+	\item Interested in Linux, operating systems, distributed computing and image processing
+	\item Did an internship at the Indian Statistical Institute on image watermarking.
+	\item Did thesis work on Computer Vision - Image segmentation
+\end{itemize}
+
+\newpage
+
+\noindent\large{WORK EXPERIENCE}
+
+\noindent\textcolor{Apricot}{\rule{17cm}{1.8pt}}
+
+\normalsize
+\noindent\textbf{Senior Software Engineer, Global StealthCo., Pondicherry, India} \hfill \textbf{(Jul 2014 – Present)}
+\newline
+
+\begin{tabularx}{\textwidth}{>{\setlength\hsize{0.5\hsize}}X >{\setlength\hsize{1.5\hsize}}X}
+
+	Description & Distributed backend and analytics applications \\
+	\textcolor{Apricot}{\rule{16cm}{0.2pt}}\\
+
+	Work done  & Designing of backend data paths \newline
+				Trending system to detect trends in streaming data \newline
+				Event detection system from streaming data (time series mining) \\
+	\textcolor{Apricot}{\rule{16cm}{0.2pt}}\\
+
+	Technologies used & Languages: Scala/Akka, Python, RabbitMQ  \newline
+					Databases: Cassandra, Redis  \newline
+					Distributed computing: Apache Storm \newline
+					Algorithm prototyping: R \\
+
+\end{tabularx}
+\newline
+\newline
+
+\noindent\textcolor{Apricot}{\rule{17cm}{1.8pt}}
+
+\normalsize
+\noindent\textbf{Senior Software Engineer, MagnetWorks Bangalore, India} \hfill \textbf{(Oct 2013 – Jun 2014)}
+\newline
+
+\begin{tabularx}{\textwidth}{>{\setlength\hsize{0.5\hsize}}X >{\setlength\hsize{1.5\hsize}}X}
+
+	Description & Embedded, Web frontend, backend, analytics, distributed sensor networks, whatever it took. \newline
+					Involved in all aspects including architecting, design and development \newline
+					Managed a team of 3 \\
+	\textcolor{Apricot}{\rule{16cm}{0.2pt}}\\
+
+	Work done & Designed and developed most of the backend \newline
+			Worked on a large chunk of web frontend and design \newline
+			Managed the entire analytics, time series mining and alerts system \newline
+			Zigbee based distributed sensor networks \\
+
+	\textcolor{Apricot}{\rule{16cm}{0.2pt}}\\
+
+	Technologies used & Languages: Backend: Python, Django, rabbitmq-celery, pandas, numpy, Node.js, Express, request.js, async \newline
+						Databases: Postgresql, CouchDB, Redis \newline
+						Statistical software: R and packages for r such as Rserve, TTR, dtw, zoo, rle, etc \newline
+						Frontend: HTML, CSS, JS, Jquery, backbone, bootstrap, Jade, underscore, SVG, D3, NVD3, etc \\
+
+\end{tabularx}
+\newline
+\newline
+
+
+\noindent\textcolor{Apricot}{\rule{17cm}{1.8pt}}
+
+\normalsize
+\noindent\textbf{Firmware Engineer, Toshiba, Bangalore, India \& Ofuna, Japan} \hfill \textbf{(Feb 2013 – Aug 2013)}
+\newline
+
+\begin{tabularx}{\textwidth}{>{\setlength\hsize{0.5\hsize}}X >{\setlength\hsize{1.5\hsize}}X}
+
+	Description & Real-Time Operating Systems board support package, more on the assembly language side. \\
+	\textcolor{Apricot}{\rule{16cm}{0.2pt}}\\
+
+	Work done  & Implemented the interrupt and exceptions bindings for uITron OS for the Tensilica processor architecture \newline
+					Implemented the ABI (application binary interface) \\
+	\textcolor{Apricot}{\rule{16cm}{0.2pt}}\\
+
+	Technologies used & Programming Languages: C, Python \newline
+						Assembly Languages: ARMv7, Tensilica \newline
+						uITron, a Real-time Operating System \\
+
+\end{tabularx}
+\newline
+
+\newpage
+
+\noindent\textcolor{Apricot}{\rule{17cm}{1.8pt}}
+
+\normalsize
+\noindent\textbf{Project Engineer, Wipro Technologies, Bangalore, India} \hfill\textbf{(Feb 2011 – Feb 2013)}
+\newline
+
+\begin{tabularx}{\textwidth}{>{\setlength\hsize{0.5\hsize}}X >{\setlength\hsize{1.5\hsize}}X}
+
+	Description & Worked on software for embedded platforms for automotive electronic systems \\
+	\textcolor{Apricot}{\rule{16cm}{0.2pt}}\\
+
+	Work done  &
+		Linux device driver for UART over LVDS SerDes (Maxim 9240) \newline
+		Developed a bootloader and remote flashing/updating solution for 16-bit microcontroller \newline
+		Developed device driver for LIN and handled integration of Vector CAN driver on Renesas M16C \newline
+		Inter-processor communication over SPI - Renesas M16C microcontroller and Freescale ARM Cortex A9 \newline
+		Application for interfacing with Pandora radio over bluetooth (AVRCP) \newline
+		Integration of Nuance Natural Language Processing engine and arbitration logic for voice commands \newline
+		Integration of TomTom navigation system
+		\\
+	\textcolor{Apricot}{\rule{16cm}{0.2pt}}\\
+
+	Technologies used & Programming Languages: C / embedded C, POSIX C  \newline
+						uITron, the real-time OS \newline
+						Linux (the kernel) \\
+
+\end{tabularx}
+\newline
+\newline
+
+\noindent\large{RECOGNITION}
+
+\normalsize
+\noindent\textcolor{Apricot}{\rule{17cm}{1.8pt}}
+\begin{itemize}
+	\item Wipro PES (Product Engineering Services) award for “Best Campus Recruit”.
+	\item Holder of “Outstanding performance" rating throughout (highest possible in Wipro).
+	\item “Star of the ODC" award for “Significant Contribution in MY14 Mazda project”.
+	\item “Star of the ODC" award for “Significant Contribution in TomTom project”.
+\end{itemize}
+.\newline
+
+\noindent\large{OTHER INTERESTS}
+
+\normalsize
+\noindent\textcolor{Apricot}{\rule{17cm}{1.8pt}}
+\noindent Playing bass guitar
+
+\noindent Listening to a wide variety of music - \href{http://last.fm/user/vairagyam}{\textcolor{RoyalPurple}{Last.fm}}
+
+\noindent Reading classics and existentialist philosophy - \href{http://www.shelfari.com/ixaxaar}{\textcolor{RoyalPurple}{ixaxaar@Shelfari}}
+
+\end{document}
