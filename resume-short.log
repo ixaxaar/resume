@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.11.5)  14 JAN 2015 20:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.11.5)  8 FEB 2015 19:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -478,111 +478,106 @@ LaTeX Info: Redefining \nameref on input line 29.
 \makeMPintoPDFobject=\count108
 \everyMPtoPDFconversion=\toks21
 )
-Underfull \hbox (badness 10000) in paragraph at lines 36--40
+Underfull \hbox (badness 10000) in paragraph at lines 36--41
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--40
-
- []
-
-
-Overfull \hbox (13.94185pt too wide) in paragraph at lines 43--44
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 42--43
 [][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--47
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
 
  []
 
 
-Overfull \hbox (13.94185pt too wide) in paragraph at lines 50--51
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 49--50
 [][][] 
  []
 
 
-Overfull \hbox (299.23051pt too wide) in paragraph at lines 87--87
+Overfull \hbox (299.23051pt too wide) in paragraph at lines 86--86
 []|[][][]| 
  []
 
 
-Overfull \hbox (299.23051pt too wide) in paragraph at lines 87--87
+Overfull \hbox (299.23051pt too wide) in paragraph at lines 86--86
 []|[][][]| 
  []
 
 
-Overfull \hbox (299.23051pt too wide) in paragraph at lines 87--87
+Overfull \hbox (299.23051pt too wide) in paragraph at lines 86--86
 []|[][][]| 
  []
 
 
-Overfull \hbox (299.23051pt too wide) in paragraph at lines 87--87
+Overfull \hbox (299.23051pt too wide) in paragraph at lines 86--86
 []|[][][]| 
  []
 
 
-Overfull \hbox (299.23051pt too wide) in paragraph at lines 87--87
+Overfull \hbox (299.23051pt too wide) in paragraph at lines 86--86
 []|[][][]| 
  []
 
 
-Overfull \hbox (299.23051pt too wide) in paragraph at lines 87--87
+Overfull \hbox (299.23051pt too wide) in paragraph at lines 86--86
 []|[][][]| 
  []
 
 
-Overfull \hbox (299.23051pt too wide) in paragraph at lines 87--87
+Overfull \hbox (299.23051pt too wide) in paragraph at lines 86--86
 []|[][][]| 
  []
 
 
-Overfull \hbox (299.23051pt too wide) in paragraph at lines 87--87
+Overfull \hbox (299.23051pt too wide) in paragraph at lines 86--86
 []|[][][]| 
  []
 
 
-Overfull \hbox (299.23051pt too wide) in paragraph at lines 87--87
+Overfull \hbox (299.23051pt too wide) in paragraph at lines 86--86
 []|[][][]| 
  []
 
 
-Overfull \hbox (299.23051pt too wide) in paragraph at lines 87--87
+Overfull \hbox (299.23051pt too wide) in paragraph at lines 86--86
 []|[][][]| 
  []
 
 
-Overfull \hbox (299.23051pt too wide) in paragraph at lines 87--87
+Overfull \hbox (299.23051pt too wide) in paragraph at lines 86--86
 []|[][][]| 
  []
 
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 87--90
+Overfull \hbox (15.0pt too wide) in paragraph at lines 86--89
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--90
+Underfull \hbox (badness 10000) in paragraph at lines 86--89
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--90
+Underfull \hbox (badness 10000) in paragraph at lines 86--89
 
  []
 
 
-Overfull \hbox (13.94185pt too wide) in paragraph at lines 93--94
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 92--93
 [][][] 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 98.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 97.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 98.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 97.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
@@ -621,84 +616,84 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--130
  []
 
 
-Overfull \hbox (343.80533pt too wide) in paragraph at lines 143--143
+Overfull \hbox (343.80533pt too wide) in paragraph at lines 141--141
 []|[][][]| 
  []
 
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 143--145
+Overfull \hbox (15.0pt too wide) in paragraph at lines 141--143
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--145
+Underfull \hbox (badness 10000) in paragraph at lines 141--143
 
  []
 
 
-Overfull \hbox (13.94185pt too wide) in paragraph at lines 147--148
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 145--146
 [][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--152
+Underfull \hbox (badness 10000) in paragraph at lines 148--150
 
  []
 
 
-Overfull \hbox (343.80533pt too wide) in paragraph at lines 161--161
+Overfull \hbox (343.80533pt too wide) in paragraph at lines 159--159
 []|[][][]| 
  []
 
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 161--163
+Overfull \hbox (15.0pt too wide) in paragraph at lines 159--161
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--163
+Underfull \hbox (badness 10000) in paragraph at lines 159--161
 
  []
 
 
-Overfull \hbox (13.94185pt too wide) in paragraph at lines 164--165
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 162--163
 [][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--169
+Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
 
 
-Overfull \hbox (343.80533pt too wide) in paragraph at lines 180--180
+Overfull \hbox (343.80533pt too wide) in paragraph at lines 179--179
 []|[][][]| 
  []
 
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 180--181
+Overfull \hbox (15.0pt too wide) in paragraph at lines 179--180
 [][] 
  []
 
 
-Overfull \hbox (13.94185pt too wide) in paragraph at lines 185--187
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 184--186
 [][][] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 193.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 192.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.193 \end{document}
+l.192 \end{document}
                      [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 193.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 192.
  (./resume-short.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 193.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 193.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 192.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 192.
 Package rerunfilecheck Info: File `resume-short.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 193.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 192.
  ) 
 Here is how much of TeX's memory you used:
  6162 strings out of 495028
@@ -715,10 +710,10 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmti10.pfb>
-Output written on resume-short.pdf (2 pages, 96017 bytes).
+Output written on resume-short.pdf (2 pages, 95885 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 49 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
